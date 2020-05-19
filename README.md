@@ -1,5 +1,7 @@
 # hello-world
 
 SE YEON JUNG
-started) 2020-05-20
 
+start GitHub) 2020.05.20
+
+mail) jsy98515@gamail.com
